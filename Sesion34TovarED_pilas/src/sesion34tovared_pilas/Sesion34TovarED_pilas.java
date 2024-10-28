@@ -27,6 +27,9 @@ public class Sesion34TovarED_pilas {
        pilaTovar.push(160);
        
         JOptionPane.showMessageDialog(null, "Datos en pila ordenada es :\n"+pilaTovar);
+        
+        
+        JOptionPane.showMessageDialog(null,"Autor: Beto tovar");
        
        
     }
